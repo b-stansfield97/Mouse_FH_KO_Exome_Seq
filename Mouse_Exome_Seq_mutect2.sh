@@ -3,7 +3,7 @@ gatk Mutect2 \
      -I MMCID-P-sorted.bam \
      -I MMCID-26B-sorted.bam \
      -I MMCID-30B-sorted.bam\
-     -normal MMCID-P \
+     -normal MMCIDP \
      -O MMCID.vcf.gz &
 
 gatk Mutect2 \
@@ -11,5 +11,5 @@ gatk Mutect2 \
     -I TMCK1-P-sorted.bam \
     -I TMCK1-14B-sorted.bam \
     -I TMCK1-24B-sorted.bam \
-    -normal TMCK1-P \
+    -normal TMCK1P \
     -O TMCK1.vcf.gz &
