@@ -17,7 +17,7 @@ Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
 5: Mouse_Exome_Seq_Sort_BAM_files.sh \
 6: Mouse_Exome_Seq_INDEX_BAM_files.sh \
 7: Mouse_Exome_Seq_mutect2.sh \
-8:
+8: Mouse_Exome_Seq_filter_calls.sh \
 9:
 10:
 
