@@ -23,7 +23,7 @@ perl vep \
     --assembly GRCm39 \
     --offline \
     --cache /data/Mus_musculus/UCSC/mm10/Sequence/WholeGenomeFasta/genome.fa \
-    --dir_cache /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/ensembl-vep
+    --dir_cache /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/ensembl-vep &
 
 perl vep \
     --input_file /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/TMCK1-24B_filtered_clean.vcf \
