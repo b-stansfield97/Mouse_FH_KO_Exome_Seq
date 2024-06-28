@@ -11,7 +11,7 @@ Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
 
 # Workflow
 1: Mouse_Exome_Seq_BWA_Allignment.sh \
-2: Mouse_Exome_Seq_Sorting.sh \
+2: Mouse_Exome_Seq_SAM_Sorting.sh \
 3: Mouse_Exome_Seq_Remove_Duplicates.sh \
 4: Mouse_Exome_Seq_Fix_Read_groups.sh \
 5: Mouse_Exome_Seq_Sort_BAM_files.sh \
