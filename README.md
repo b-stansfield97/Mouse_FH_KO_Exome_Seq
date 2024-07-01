@@ -20,4 +20,4 @@ Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
 8: Mouse_Exome_Seq_filter_calls.sh \
 9: Mouse_Exome_Seq_Cleanup.sh \
 10: Mouse_Exome_Seq_VEP.sh \
-11: vcf2Maf.sh
+11: Mouse_Exome_Seq_vcf2Maf.sh
