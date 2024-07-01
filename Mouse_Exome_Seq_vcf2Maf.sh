@@ -22,7 +22,7 @@ perl vcf2maf.pl \
 
 perl vcf2maf.pl \
     --input-vcf /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/TMCK1-14B_annotated.vcf \
-    --output-maf /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/MMCID-14B.maf \
+    --output-maf /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/TMCK1-14B.maf \
     --vep-path /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/ensembl-vep/ \
     --vep-data /home/bstansfield/.vep \
     --ref-fasta /data/mouse_exome_seq/Samples/DefaultProject/FASTQ/mouse_reference/Mus_musculus.GRCm39.dna.primary_assembly.fa \
