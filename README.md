@@ -1,6 +1,6 @@
-Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
+# Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
 
-# Samples
+## Samples
 ##### MMCID-P: Parental Control
 ##### MMCID-30B: FH knockout Clone 1
 ##### MMCID-26B: FH knockout Clone 2
@@ -9,7 +9,7 @@ Whole Exome Sequencing Analysis of Control and FH knockout mouse kidney cells
 ##### TMCK1-14B: FH knockout Clone 1
 ##### TMCK1-23B: FH knockout Clone 2
 
-# Workflow
+## Workflow - shell scripts were seperated and ran in the following order
 1: Mouse_Exome_Seq_BWA_Allignment.sh \
 2: Mouse_Exome_Seq_SAM_Sorting.sh \
 3: Mouse_Exome_Seq_Remove_Duplicates.sh \
