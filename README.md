@@ -9,7 +9,7 @@
 ##### TMCK1-14B: FH knockout Clone 1
 ##### TMCK1-23B: FH knockout Clone 2
 
-## Workflow - shell scripts were seperated and ran in the following order
+## Workflow - Shell scripts for each section were seperated for ease of use and ran in the following order
 1: Mouse_Exome_Seq_BWA_Allignment.sh \
 2: Mouse_Exome_Seq_SAM_Sorting.sh \
 3: Mouse_Exome_Seq_Remove_Duplicates.sh \
